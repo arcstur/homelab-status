@@ -6,6 +6,9 @@ sites:
   - name: Nextcloud
     url: https://nextcloud.arcstur.com
 
+workflowSchedule:
+  uptime: "*/30 * * * *"
+
 status-website:
   baseUrl: /nextcloud-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
