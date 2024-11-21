@@ -4,17 +4,19 @@
     "url": "https://nextcloud.arcstur.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.arcstur.com.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
-    "timeDay": 905,
-    "timeWeek": 1311,
-    "timeMonth": 1311,
-    "timeYear": 1311,
-    "dailyMinutesDown": {}
+    "time": 1316,
+    "timeDay": 1131,
+    "timeWeek": 1316,
+    "timeMonth": 1316,
+    "timeYear": 1316,
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   }
 ]
