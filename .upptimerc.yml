@@ -10,16 +10,16 @@ workflowSchedule:
   uptime: "*/30 * * * *"
 
 status-website:
-  baseUrl: /$REPO
+  baseUrl: /homelab-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Homelab Status
   introTitle: "My personal homelab status monitoring."
-  introMessage: This is a sample status page which uses real-time data from our [GitHub repository](https://github.com/$OWNER/$REPO).
+  introMessage: This is a sample status page which uses real-time data from our GitHub repository.
   navbar:
     - title: Status
-      href: /$REPO
+      href: /homelab-status
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/arcstur/homelab-status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
