@@ -10,7 +10,7 @@ workflowSchedule:
   uptime: "*/30 * * * *"
 
 status-website:
-  baseUrl: /nextcloud-upptime
+  baseUrl: /$REPO
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Homelab Status
   introTitle: "My personal homelab status monitoring."
