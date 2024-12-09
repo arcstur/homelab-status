@@ -1,10 +1,12 @@
-# Change these first
-owner: arcstur # Your GitHub organization or username, where this repository lives
-repo: homelab-status # The name of this repository
+owner: arcstur
+repo: homelab-status
 
 sites:
   - name: Nextcloud
     url: https://nextcloud.arcstur.com
+
+assignees:
+  - arcstur
 
 workflowSchedule:
   uptime: "*/30 * * * *"
@@ -13,13 +15,8 @@ status-website:
   baseUrl: /homelab-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Homelab Status
-  introTitle: "My personal homelab status monitoring."
-  introMessage: This is a sample status page which uses real-time data from our GitHub repository.
+  introTitle: "Artur's homelab status monitoring."
+  introMessage: "Status updates from the services and apps I run :-)"
   navbar:
-    - title: Status
-      href: /homelab-status
     - title: GitHub
       href: https://github.com/arcstur/homelab-status
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
