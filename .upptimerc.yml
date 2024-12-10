@@ -12,7 +12,7 @@ workflowSchedule:
   uptime: "*/30 * * * *"
 
 status-website:
-  baseUrl: /homelab-status
+  cname: status.arcstur.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Homelab Status
   introTitle: "Artur's homelab status monitoring."
