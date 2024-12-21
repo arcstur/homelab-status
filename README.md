@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://arcstur.github.io/nextcloud-upptime)
+[**Visit our status website →**](https://status.arcstur.com)
 
 ## 📄 License
 
