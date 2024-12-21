@@ -9,7 +9,7 @@ assignees:
   - arcstur
 
 workflowSchedule:
-  uptime: "*/30 * * * *"
+  uptime: "*/15 * * * *"
 
 status-website:
   cname: status.arcstur.com
