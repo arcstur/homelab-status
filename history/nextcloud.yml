@@ -1,7 +1,7 @@
 url: https://nextcloud.arcstur.com
-status: down
-code: 503
-responseTime: 705
-lastUpdated: 2025-05-12T04:03:09.583Z
+status: up
+code: 200
+responseTime: 1592
+lastUpdated: 2025-05-12T12:01:25.566Z
 startTime: 2024-11-16T03:18:38.412Z
 generator: Upptime <https://github.com/upptime/upptime>
